@@ -31,3 +31,10 @@
 # Debug files
 *.dSYM/
 *.su
+
+# CMake
+CMakeCache.txt 
+CMakeFiles
+cmake_install.cmake
+libduktap.a
+Makefile
